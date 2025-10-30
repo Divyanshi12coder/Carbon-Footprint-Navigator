@@ -14,7 +14,7 @@ Tailwind CSS – for modern, responsive design
 
 HTML5 & CSS3 – core web structure and styling
 
-Chart.js / Recharts – for displaying interactive visual data
+Chart.js – for displaying interactive visual data
 
 Backend:
 Node.js – runtime for server-side operations
