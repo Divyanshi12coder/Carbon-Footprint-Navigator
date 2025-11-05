@@ -14,12 +14,12 @@ Whether you're an individual aiming to live greener or an organization pursuing 
 
 | Layer              | Technology Used                            |
 |-------------------|---------------------------------------------|
-| **Frontend**       | React.js, Tailwind CSS, HTML5, CSS3         |
+| **Frontend**       | React.js       |
 | **Visualization**  | Chart.js                                    |
-| **Backend**        | Node.js, Express.js                         |
-| **Database**       | MongoDB, MongoDB Atlas                      |
-| **Auth & Hosting** | Firebase/Auth0, Vercel/Netlify, Render/Heroku |
-| **Integrations**   | Climatiq / Carbon Interface API, Axios      |
+| **Backend**        | Node.js                   |
+| **Database**       | MongoDB                  |
+| **Auth & Hosting** |  Vercel/Netlify |
+| **Integrations**   | Carbon Interface API    |
 
 ---
 
